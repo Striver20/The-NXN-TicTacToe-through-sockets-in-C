@@ -17,11 +17,7 @@ GCC (GNU Compiler Collection): A C compiler.
 
 Sockets library: The code requires the standard sockets library available on Linux.
 ## Contact Details
-Ekank - ekank1410@gmail.com
-
-Krishna - krishnakumar.211it034@nitk.edu.in
-
-Prasanna Kumar - baliprasanna@gmail.com
+Ashit - ashitvema.211it012@nitk.edu.in
 
 
 
